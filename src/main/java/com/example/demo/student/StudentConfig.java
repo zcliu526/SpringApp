@@ -12,6 +12,7 @@ import java.util.List;
 @Configuration
 public class StudentConfig {
 
+    //test
     @Bean
     CommandLineRunner commandLineRunner
             (StudentRepository repository) {
